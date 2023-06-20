@@ -22,6 +22,8 @@
 ## Credits
 ### Audio
 - Escape Room Scene BGM: https://pixabay.com/music/meditationspiritual-intergalactic-oceans-meditation-132848/
+- Door open sound effect: https://www.zapsplat.com/music/science-fiction-door-electronic-slide-open-or-close/
+- Keypad wrong password sound effect: https://freesound.org/people/plasterbrain/sounds/423166/
 ### 3D Models
 - Puzzle door: https://skfb.ly/6ULMY
 ### Fonts
