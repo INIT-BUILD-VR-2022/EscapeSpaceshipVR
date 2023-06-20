@@ -5,10 +5,12 @@
 ## Gameplay
 
 ## Tech Stack
-- Game Engine: Unity
+- VR Headset: Meta Quest 2
+- Game Engine: Unity, Unity XR Interaction Toolkit
 - Programming Language: C#
 - Version Control: PlasticSCM
 - 3D Modeling/Editing: Blender, ProBuilder
+- Project Management: Trello
 
 ## Team Members
 - Daniel Santana
