@@ -1,4 +1,8 @@
 # Escape Spaceship VR
+<p align="center">
+<img src="https://github.com/vchu22/EscapeSpaceshipVR/assets/10492258/2daf8885-189d-4e21-82e7-72dcce12960e" width="500">
+</p>
+The game takes place in a far-distance future where more and more humans can travel across the galaxy. You, on your trip to another planet, were captured by a group of aliens and they locked you in a tiny room inside their spaceship. You must solve all the puzzles left in the room within the time limit to escape the spaceship.
 
 ## Screenshots
 ![Photo 1](https://github.com/vchu22/EscapeSpaceshipVR/assets/10492258/80e97842-4857-4365-8003-ca9a7b04ff51)
