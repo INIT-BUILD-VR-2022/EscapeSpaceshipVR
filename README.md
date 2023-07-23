@@ -1,9 +1,8 @@
 # Escape Spaceship VR
 
 ## Screenshots
-<img src="https://github.com/vchu22/EscapeSpaceshipVR/assets/10492258/afdaaf80-6d5e-4c8c-97ab-16d62823992b"  width="500" height="360">
-<img src="https://github.com/vchu22/EscapeSpaceshipVR/assets/10492258/26d840e3-8f92-4dc5-bc3d-d9c583062af8"  width="500" height="360">
-
+![Photo 1](https://github.com/vchu22/EscapeSpaceshipVR/assets/10492258/afdaaf80-6d5e-4c8c-97ab-16d62823992b)
+![Photo 2](https://github.com/vchu22/EscapeSpaceshipVR/assets/10492258/26d840e3-8f92-4dc5-bc3d-d9c583062af8)
 ![EscapeSpaceshipVR_1](https://github.com/vchu22/EscapeSpaceshipVR/assets/10492258/8c80953d-f5fb-417b-a40a-3ce78cd1d9a8)
 ![EscapeSpaceshipVR_3](https://github.com/vchu22/EscapeSpaceshipVR/assets/10492258/a91b42fa-2937-47b6-8130-2e0fe7f90f2d)
 
