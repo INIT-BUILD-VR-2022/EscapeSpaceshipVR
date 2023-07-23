@@ -30,6 +30,9 @@
 - Keypad wrong password sound effect: https://freesound.org/people/plasterbrain/sounds/423166/
 ### 3D Models
 - Puzzle door: https://skfb.ly/6ULMY
+- Sci Fi Corridor: https://www.cgtrader.com/free-3d-models/interior/other/sci-fi-corridor-3d-model-free-726c6978-fe9f-4688-91e6-cfd37932ce62
+### Textures
+- Blue planet: https://www.cgtrader.com/free-3d-models/space/planet/gas-giant-planet-03-4k
 ### Fonts
 - Alien language keypad font: https://www.1001fonts.com/galactico-font.html
 - Game logo font: https://www.fontsdownload.org/primal-font/
