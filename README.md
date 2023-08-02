@@ -22,6 +22,7 @@ The game takes place in a far-distance future where more and more humans can tra
 - Daniel Santana
 - Alfredo Medina
 - Cedric Flor Rey
+- Christian Laverde
 - Allan Martinez
 - Vanessa Chu
 - Alberto Costa
