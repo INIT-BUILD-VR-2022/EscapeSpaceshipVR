@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 2560
     height: 1366.6667
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Scene
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 371}
   m_MaxSize: {x: 10000, y: 10000}
@@ -73,7 +73,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 44
+  controlID: 26
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -223,7 +223,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 45
+  controlID: 27
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -249,7 +249,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 23
+  controlID: 28
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -354,8 +354,8 @@ MonoBehaviour:
       floating: 0
       collapsed: 0
       displayed: 1
-      snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: -98.666626, y: -26}
+      snapOffset: {x: -101, y: -26}
+      snapOffsetDelta: {x: 0, y: 0}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -546,9 +546,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 2.9887817, y: -11.384932, z: -15.550264}
+    m_Target: {x: -1.7535965, y: 4.2410364, z: -20.912752}
     speed: 2
-    m_Value: {x: 2.9887817, y: -11.384932, z: -15.550264}
+    m_Value: {x: -1.7535965, y: 4.2410364, z: -20.912752}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -595,9 +595,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.0200093, y: -0.93735915, z: 0.34355605, w: -0.05462699}
+    m_Target: {x: 0.009150078, y: 0.99067867, z: 0.08509778, w: -0.10629978}
     speed: 2
-    m_Value: {x: -0.020524021, y: -0.93724924, z: 0.34351578, w: -0.056031357}
+    m_Value: {x: 0.009309173, y: 0.9905157, z: 0.08658071, w: -0.106282264}
   m_Size:
     m_Target: 10
     speed: 2
@@ -705,7 +705,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\UnityProjects\EscapeSpaceshipVR\EscapeRoomVR (1)
+  m_LastProjectPath: C:\UnityProjects\SpaceEscapeVR\EscapeRoomVR (1)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -767,7 +767,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 1
+    m_HadKeyboardFocusLastEvent: 0
     m_ExpandedInstanceIDs: c62300007c8c0000664c0100c68d0000ca7b000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -870,9 +870,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 14f9ffff20f9ffff2afbffff
+      m_SelectedIDs: 14770000
+      m_LastClickedID: 30484
+      m_ExpandedIDs: 2afbfffffc73000010770000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
