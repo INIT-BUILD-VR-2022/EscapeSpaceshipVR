@@ -6,11 +6,11 @@ The game takes place in a far-distance future where more and more humans can tra
 
 ## Screenshots
 <p align="center">
-<img src="img/Photo1.jpg" width="500">
-<img src="img/Photo2.jpg" width="500">
+<img src="img/Photo1.jpg" width="400">
+<img src="img/Photo2.jpg" width="400">
+<img src="img/EscapeSpaceshipVR1.PNG" width="400">
+<img src="img/EscapeSpaceshipVR2.PNG" width="400">
 </p>
-![EscapeSpaceshipVR_1](https://github.com/vchu22/EscapeSpaceshipVR/assets/10492258/8c80953d-f5fb-417b-a40a-3ce78cd1d9a8)
-![EscapeSpaceshipVR_3](https://github.com/vchu22/EscapeSpaceshipVR/assets/10492258/a91b42fa-2937-47b6-8130-2e0fe7f90f2d)
 
 ## Tech Stack
 - VR Headset: Meta Quest 2
