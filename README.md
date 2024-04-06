@@ -8,8 +8,8 @@ The game takes place in a far-distance future where more and more humans can tra
 <p align="center">
 <img src="img/Photo1.jpg" width="400">
 <img src="img/Photo2.jpg" width="400">
-<img src="img/EscapeSpaceshipVR1.PNG" width="400">
-<img src="img/EscapeSpaceshipVR2.PNG" width="400">
+<img src="img/EscapeSpaceshipVR1.PNG" width="800">
+<img src="img/EscapeSpaceshipVR2.PNG" width="800">
 </p>
 
 ## Tech Stack
