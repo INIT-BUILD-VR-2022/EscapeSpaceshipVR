@@ -2,7 +2,7 @@
 <p align="center">
 <img src="img/logo.png" width="500">
 </p>
-The game takes place in a far-distance future where more and more humans can travel across the galaxy. You, on your trip to another planet, were captured by a group of aliens and they locked you in a tiny room inside their spaceship. You must solve all the puzzles left in the room within the time limit to escape the spaceship.
+The game takes place in a far-distant future where intergalactic travel has become increasingly common. You, on your trip to another planet, were captured by a group of aliens and are now locked in a tiny room inside their spaceship. To escape, you must solve all the puzzles left in the room within the specified time limit.
 
 ## Screenshots
 <p align="center">
